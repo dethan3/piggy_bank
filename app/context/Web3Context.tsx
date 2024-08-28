@@ -1,5 +1,3 @@
-// app/context/Web3Context.tsx
-
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { ethers } from 'ethers';
 import Web3Modal from 'web3modal';
